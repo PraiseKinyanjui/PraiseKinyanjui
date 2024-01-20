@@ -1,0 +1,6 @@
+- 👋 Hi there, I’m @PraiseKinyanjui
+- 👀 I’m a computer science student from Kenya passionate about learning new technology and solving problems ...
+- 🌱 I’m currently learning JavaScript, React.js and Node.js...
+
+
+
